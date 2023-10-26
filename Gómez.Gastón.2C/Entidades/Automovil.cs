@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Automovil : Vehiculo
+    public class Automovil : Vehiculo
     {
         public string Tipo
         {

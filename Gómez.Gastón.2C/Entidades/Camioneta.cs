@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Camioneta : Vehiculo
+    public class Camioneta : Vehiculo
     {
         private bool cabinaSimple;
 

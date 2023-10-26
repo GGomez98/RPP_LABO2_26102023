@@ -19,7 +19,7 @@
 
         protected string Tipo
         {
-            get { return this.GetType().ToString(); }
+            get { return this.Tipo; }
         }
         protected Vehiculo(EPropulsion propulsion) 
         {
@@ -36,6 +36,7 @@
         protected virtual string GetInfo()
         {
             string siNoEsAWD;
+            string tipoPropulsion;
 
             if (this.esAWD)
             {
@@ -45,7 +46,20 @@
             {
                 siNoEsAWD = "No";
             }
-                return $"{this.Tipo} con propulsión a {this.Propulsion}, {siNoEsAWD} numero de chasis {this.numeroDeChasis}. ";
+
+            switch (this.propulsion)
+            {
+                case EPropulsion.Electrica:
+                    tipoPropulsion = "Electrica";
+                    break;
+                case EPropulsion.Combustion:
+                    tipoPropulsion = "Combustion";
+                    break;
+                default:
+                    tipoPropulsion = "Hidrica";
+                    break;
+            }
+                return $"{this.Tipo} con propulsión a {tipoPropulsion}, {siNoEsAWD} numero de chasis {this.numeroDeChasis}. ";
         }
 
         public string ToString()

@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Moto
+    public class Moto : Vehiculo
     {
+        public string Tipo
+        {
+            get
+            {
+                return "Moto";
+            }
+        }
+        public Moto(EPropulsion propulsion) : base(propulsion)
+        {
+        }
     }
 }

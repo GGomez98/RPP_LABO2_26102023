@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Automovil : Vehiculo
     {
-        public string Tipo
+        protected string Tipo
         {
             get
             {

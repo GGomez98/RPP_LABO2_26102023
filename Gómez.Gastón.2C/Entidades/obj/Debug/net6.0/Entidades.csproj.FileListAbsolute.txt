@@ -1,0 +1,11 @@
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Entidades\obj\Debug\net6.0\ref\Entidades.dll

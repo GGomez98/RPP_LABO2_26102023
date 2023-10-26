@@ -33,6 +33,10 @@
             this.esAWD = esAWD;
         }
 
+        /// <summary>
+        /// Obtiene la informacion del vehiculo
+        /// </summary>
+        /// <returns>Una cadena de caracteres con la informacion del vehiculo</returns>
         protected virtual string GetInfo()
         {
             string siNoEsAWD;

@@ -15,3 +15,7 @@ D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastó
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.genruntimeconfig.cache
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\ref\Gómez.Gastón.2C.dll
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón._2C.Properties.Resources.resources
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\bin\Debug\net6.0-windows\Entidades.dll
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\bin\Debug\net6.0-windows\Entidades.pdb
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.csproj.AssemblyReference.cache
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.csproj.CopyComplete

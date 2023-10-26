@@ -6,5 +6,10 @@ namespace Gómez.Gastón._2C
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

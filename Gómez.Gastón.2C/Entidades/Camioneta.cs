@@ -23,7 +23,7 @@ namespace Entidades
             this.esAWD = true;
         }
 
-        protected override string GetInfo()
+        protected string GetInfo()
         {
             string tipoCabina;
             StringBuilder sb = new StringBuilder();

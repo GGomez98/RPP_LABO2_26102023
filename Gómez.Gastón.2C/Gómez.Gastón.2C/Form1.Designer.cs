@@ -45,9 +45,9 @@ namespace Gómez.Gastón._2C
             lstVehiculos.FormattingEnabled = true;
             lstVehiculos.HorizontalScrollbar = true;
             lstVehiculos.ItemHeight = 15;
-            lstVehiculos.Location = new Point(4, 4);
+            lstVehiculos.Location = new Point(12, 10);
             lstVehiculos.Name = "lstVehiculos";
-            lstVehiculos.Size = new Size(595, 499);
+            lstVehiculos.Size = new Size(588, 484);
             lstVehiculos.TabIndex = 0;
             // 
             // lblTipo

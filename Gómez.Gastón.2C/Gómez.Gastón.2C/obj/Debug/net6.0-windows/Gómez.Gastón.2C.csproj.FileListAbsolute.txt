@@ -3,7 +3,6 @@ D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastó
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\bin\Debug\net6.0-windows\Gómez.Gastón.2C.runtimeconfig.json
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\bin\Debug\net6.0-windows\Gómez.Gastón.2C.dll
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\bin\Debug\net6.0-windows\Gómez.Gastón.2C.pdb
-D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón._2C.Form1.resources
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.csproj.GenerateResource.cache
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.GeneratedMSBuildEditorConfig.editorconfig
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.AssemblyInfoInputs.cache
@@ -19,3 +18,4 @@ D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastó
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\bin\Debug\net6.0-windows\Entidades.pdb
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.csproj.AssemblyReference.cache
 D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón.2C.csproj.CopyComplete
+D:\Gastón\UTN\Laboratorio II\RPP_LABO2_26102023\Gómez.Gastón.2C\Gómez.Gastón.2C\obj\Debug\net6.0-windows\Gómez.Gastón._2C.FrmView.resources

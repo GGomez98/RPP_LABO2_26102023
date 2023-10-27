@@ -10,7 +10,7 @@ namespace Entidades
     {
         private bool cabinaSimple;
 
-        protected string Tipo
+        protected override string Tipo
         {
             get
             {
@@ -23,7 +23,7 @@ namespace Entidades
             this.esAWD = true;
         }
 
-        protected string GetInfo()
+        protected override string GetInfo()
         {
             string tipoCabina;
             StringBuilder sb = new StringBuilder();
@@ -37,7 +37,6 @@ namespace Entidades
                 tipoCabina = "Doble";
             }
 
-            sb.Append(base.ToString());
             sb.Append($"Con cabina: {tipoCabina}.");
 
             return sb.ToString();

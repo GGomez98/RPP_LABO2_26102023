@@ -17,10 +17,7 @@
             get { return propulsion; }
         }
 
-        protected string Tipo
-        {
-            get { return this.GetType().ToString(); }
-        }
+        protected abstract string Tipo { get; }
         protected Vehiculo(EPropulsion propulsion) 
         {
             this.propulsion = propulsion;
@@ -37,7 +34,7 @@
         /// Obtiene la informacion del vehiculo
         /// </summary>
         /// <returns>Una cadena de caracteres con la informacion del vehiculo</returns>
-        protected string GetInfo()
+        protected virtual string GetInfo()
         {
             string siNoEsAWD;
             string tipoPropulsion;
